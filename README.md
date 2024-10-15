@@ -15,7 +15,8 @@
 
 В скриншотах представлено полное решение задачи
 
-1.<img width="460" alt="Снимок экрана 2024-10-12 в 21 41 52" src="https://github.com/user-attachments/assets/a6c3b15d-fda8-476a-8379-16449c16bd94">
+1.<img width="571" alt="Снимок экрана 2024-10-15 в 19 15 50" src="https://github.com/user-attachments/assets/bd4e3b59-b5d1-4769-8c96-507d13f90639">
+
 
 2.<img width="399" alt="Снимок экрана 2024-10-12 в 21 44 23" src="https://github.com/user-attachments/assets/27d52470-d0dd-4600-903a-eda8bcd803bc">
 
